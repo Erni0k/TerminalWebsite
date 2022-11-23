@@ -1,3 +1,3 @@
 # TerminalWebsite
 You can see website on:
-Erni.tk
+https://www.erni.tk/
