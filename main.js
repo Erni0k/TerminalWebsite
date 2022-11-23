@@ -120,6 +120,9 @@ function commander(cmd) {
       addLine(currentDate,"color2")
       addLine('<br>')
       break;
+    case "cake_is_a_lie":
+      loopLines(cake_is_a_lie,"color2 margin", 2000)
+       break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
