@@ -1,3 +1,3 @@
 # TerminalWebsite
-You can see website on:
-https://www.erni.tk/
+You can see website:
+[HERE](https://erni0k.github.io/TerminalWebsite/)
